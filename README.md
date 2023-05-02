@@ -2,7 +2,7 @@
 
 ### Hello, I'm Hugo Ramon Pereira 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramon-pereira/)](https://www.linkedin.com/in/hugo-ramon-pereira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Ramon-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramon-pereira/)](https://www.linkedin.com/in/hugo-ramon-pereira/)
 
 I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer. 
 
