@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="./images/dev-working.png" width="300"/>
 
-<!--
-**HugoRamonPereira/hugoramonpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Hugo Ramon Pereira 👋
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramon-pereira/)](https://www.linkedin.com/in/hugo-ramon-pereira/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer. 
+
+- 💻 Currently I am working hard to improve my skills with Next.js.
+- 🖥️ I am also learning Node.js aspiring to be a Fullstack Developer.
+- 👨🏻‍💻 The tecnologies I work daily with are: ReactJS, NextJS, Typescript and Javascript, Styled-Components, TailwindCSS, and so many more.
+
+“The only thing standing between you and outrageous success is continuous progress” - Dan Waldschmidt
