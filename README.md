@@ -4,7 +4,13 @@
 
 <a href="https://app.daily.dev/ramonpereira"><img src="https://api.daily.dev/devcards/61c1b8bf476d437b91228725f1f8859e.png?r=uw0" width="300" alt="Hugo Ramon Pereira's Dev Card"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Ramon-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramon-pereira/)](https://www.linkedin.com/in/hugo-ramon-pereira/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3578F1?style=for-the-badge&logo=web&logoColor=white)](https://hugoramonpereira.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ramon-pereira/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramon-pereira)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dev.to/hramonpereira)
+[![DevTo Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hramonpereira)
+[![DailyDev](https://img.shields.io/badge/DailyDev-12100E?style=for-the-badge&logo=dailydev&logoColor=white)](https://app.daily.dev/ramonpereira)
+
 
 I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer. 
 
