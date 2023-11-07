@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><a href="https://app.daily.dev/hramonpereira"><img src="https://api.daily.dev/devcards/61c1b8bf476d437b91228725f1f8859e.png?r=a4z" width="250" alt="Hugo Ramon Pereira's Dev Card"/></a></td>
+    <td><a href="https://app.daily.dev/hramonpereira"><img src="https://api.daily.dev/devcards/61c1b8bf476d437b91228725f1f8859e.png?r=a4z" width="300" alt="Hugo Ramon Pereira's Dev Card"/></a></td>
     <td><img align="right" src="./images/dev-working.png" width="300"/></td>
   </tr>
 </table>
