@@ -1,6 +1,6 @@
 
 
-### Hello, I'm Hugo Ramon Pereira 👋
+### Hello, I'm Hugo Ramon 👋
 
 <table>
   <tr>
@@ -18,23 +18,22 @@
 [![DailyDev](https://img.shields.io/badge/DailyDev-12100E?style=for-the-badge&logo)](https://app.daily.dev/ramonpereira)
 
 
-I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer. 
+I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer and also Vue.js. 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br />
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-6646DA?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 💻 Currently I am working hard to improve my skills with Next.js.
-- 🖥️ I am also learning Node.js and C# with .NET aspiring to be a Fullstack Developer.
+- 💻 Currently I am working hard to improve my skills with Next.js and also Vue.js.
+- 🖥️ I am also learning Node.js aspiring to be a Fullstack Developer.
 - 📱 I have also started my journey as a Mobile Developer with React Native.
-- 👨🏻‍💻 The tecnologies I work daily with are: ReactJS, NextJS, Typescript and Javascript, C#, .NET and many more.
+- 👨🏻‍💻 The tecnologies I work daily with are: ReactJS, NextJS, Typescript and Javascript, Vue.js and others.
 
 “The only thing standing between you and outrageous success is continuous progress” - Dan Waldschmidt
