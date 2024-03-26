@@ -15,7 +15,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramon-pereira)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dev.to/hramonpereira)
 [![DevTo Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hramonpereira)
-[![DailyDev](https://img.shields.io/badge/DailyDev-12100E?style=for-the-badge&logo)](https://app.daily.dev/ramonpereira)
+[![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=for-the-badge)](https://app.daily.dev/ramonpereira)
 
 
 I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer and also Vue.js. 
