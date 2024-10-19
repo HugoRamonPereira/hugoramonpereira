@@ -18,7 +18,7 @@
 [![daily.dev Badge](https://img.shields.io/badge/daily.dev-CE3DF3?logo=dailydotdev&logoColor=fff&style=for-the-badge)](https://app.daily.dev/ramonpereira)
 
 
-I’m a frontend developer that loves coding, design and modern interfaces. I currently work as a React.js Developer and also Vue.js. 
+I’m a Fullstack Developer that loves coding, design, modern interfaces, scalable and performant solutions.
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
