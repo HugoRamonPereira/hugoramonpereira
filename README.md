@@ -22,6 +22,7 @@ I’m a frontend developer that loves coding, design and modern interfaces. I cu
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
 ![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,9 +35,9 @@ I’m a frontend developer that loves coding, design and modern interfaces. I cu
 ![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=for-the-badge)
 
-- 💻 Currently I am working hard to improve my skills with Next.js and also Vue.js.
-- 🖥️ I am also learning Node.js aspiring to be a Fullstack Developer.
+- 💻 Currently I am working hard to improve my skills with Astro, Next.js, Vue.js and Nuxt.js.
+- 🖥️ I am also expanding my Node.js skills to become a better Fullstack Developer.
 - 📱 I have also started my journey as a Mobile Developer with React Native.
-- 👨🏻‍💻 The tecnologies I work daily with are: ReactJS, NextJS, Typescript and Javascript, Vue.js and others.
+- 👨🏻‍💻 The tecnologies I work daily with are: ReactJS, NextJS, Astro, Vue.js, Nuxt.js with Typescript and also Node.js.
 
 “The only thing standing between you and outrageous success is continuous progress” - Dan Waldschmidt
