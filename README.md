@@ -33,7 +33,9 @@ I’m a frontend developer that loves coding, design and modern interfaces. I cu
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
-![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=for-the-badge)
+![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 
 - 💻 Currently I am working hard to improve my skills with Astro, Next.js, Vue.js and Nuxt.js.
 - 🖥️ I am also expanding my Node.js skills to become a better Fullstack Developer.
